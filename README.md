@@ -1,4 +1,4 @@
-# Fabric Example Mod
+# wardrobe
 
 ## Setup
 
@@ -8,6 +8,7 @@ For setup instructions please see the [fabric wiki page](https://fabricmc.net/wi
 
 This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
 
+##想法
 1.	使用1.16.5，兼容fabric以及forge
 2.	半兼容饰品栏curios模组，例如只提供戒指和腰带类一键换装。
 3.	必须服务端和客户端同时安装，客户端单独安装不生效，防止在普通服务器或pvp服务器使用，pvp时一键换装实在太作弊了。
